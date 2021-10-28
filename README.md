@@ -4,6 +4,13 @@
 # Goals / Outcomes ✨
 - To test knowledge of using sockets (socket.io) and events
 - Understanding of callbacks, hooks and function references
+&nbsp;
+# Steps to run app ✨
+- Download zip folder and unzip it in local device.
+- Open unzip folder in code editor
+- Open Terminal and run below 2 commands.
+- npm install
+- npm start
 
 &nbsp;
 # Pre-requisites ✅
